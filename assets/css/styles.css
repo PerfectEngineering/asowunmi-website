@@ -163,3 +163,6 @@ b.light-color{ color: #444; }
 
 #rounded-countdown{ width: 80%; margin: 0 auto; }
 
+#mce-success-response{ color: #2A61D6; }
+
+#mce-error-response{ color: #e40b52; }
