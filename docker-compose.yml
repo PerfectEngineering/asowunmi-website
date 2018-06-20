@@ -1,6 +1,6 @@
 version: '3'
 services:
   website:
-    image: perfectengineering/asowunmi-website:1.0.0
+    image: ${CONTAINER_REGISTRY}perfectengineering/asowunmi-website:1.0.0
     ports:
     - "80:80"
