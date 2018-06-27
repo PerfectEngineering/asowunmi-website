@@ -97,16 +97,18 @@ class Tbz_WC_Paystack_Gateway_One extends Tbz_WC_Paystack_Custom_Gateway {
 	 * Display the selected payment icon
 	 */
 	public function get_icon() {
-		$icon_html = '<img src="' . WC_HTTPS::force_https_url( WC_PAYSTACK_URL . '/assets/images/paystack.png' ) . '" alt="paystack" style="height: 40px; margin-right: 0.4em;margin-bottom: 0.6em;" />';
-		$icon      = $this->payment_icons;
+		// $icon_html = '<img src="' . WC_HTTPS::force_https_url( WC_PAYSTACK_URL . '/assets/images/paystack.png' ) . '" alt="paystack" style="height: 40px; margin-right: 0.4em;margin-bottom: 0.6em;" />';
+		// $icon      = $this->payment_icons;
 
-		if( is_array( $icon ) ) {
+		// if( is_array( $icon ) ) {
 
-			foreach ( $icon as $i ) {
-				$icon_html .= '<img src="' . WC_HTTPS::force_https_url( WC_PAYSTACK_URL . '/assets/images/'. $i .'.png' ) . '" alt="'. $i .'" style="height: 40px; margin-right: 0.4em;margin-bottom: 0.6em;" />';
-			}
+		// 	foreach ( $icon as $i ) {
+		// 		$icon_html .= '<img src="' . WC_HTTPS::force_https_url( WC_PAYSTACK_URL . '/assets/images/'. $i .'.png' ) . '" alt="'. $i .'" style="height: 40px; margin-right: 0.4em;margin-bottom: 0.6em;" />';
+		// 	}
 
-		}
+		// }
+
+		$icon_html = '';
 
 		return apply_filters( 'woocommerce_gateway_icon', $icon_html, $this->id );
 	}
