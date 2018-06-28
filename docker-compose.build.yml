@@ -1,7 +1,7 @@
 version: '3'
 services:
   website:
-    image: ${CONTAINER_REGISTRY}perfectengineering/asowunmi-website:${WEBSITE_VERSION}
+    image: ${CONTAINER_REGISTRY}perfectengineering/asowunmi-website:${BRANCH_NAME}
     build:
        context: .
        dockerfile: Dockerfile
