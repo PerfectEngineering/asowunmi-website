@@ -1,0 +1,12 @@
+/*
+ Theme Name:   Umbala Child
+ Description:  Umbala Child Theme
+ Author:       the Alura Studio team
+ Author URI:   http://alura-studio.com
+ Template:     umbala
+ Version:      1.0.0
+ Text Domain:  umbala
+*/
+.no-bottom-margin {
+    margin-bottom: 0px! important;
+}
