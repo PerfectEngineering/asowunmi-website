@@ -7,10 +7,13 @@ push-website: build
 stop:
 	docker-compose down --remove-orphans
 
-run: stop
+pull:
+	docker-compose -f docker-compose.yml pull
+
+run: stop pull
 	docker-compose -f docker-compose.yml up -d --force-recreate
 
-run-stage: stop
+run-stage: stop pull
 	docker-compose -f docker-compose.yml -f docker-compose.stage.yml up -d --force-recreate
 
 run-local: stop
