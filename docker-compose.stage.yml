@@ -13,5 +13,7 @@ services:
     volumes:
       - ${DATABASE_VOLUME_PATH}:/var/lib/mysql
     restart: always
+    ports:
+      - "3306:3306
     env_file:
       - .env
