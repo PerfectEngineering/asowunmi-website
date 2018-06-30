@@ -1,5 +1,5 @@
 login:
-	$(aws ecr get-login --no-include-email --region eu-west-2)
+	$$(aws ecr get-login --no-include-email --region eu-west-2)
 
 build:
 	docker-compose -f docker-compose.build.yml build
