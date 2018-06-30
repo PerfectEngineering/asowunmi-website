@@ -7,6 +7,18 @@
  Version:      1.0.0
  Text Domain:  umbala
 */
+@font-face {
+    font-family: 'PWAlabama';
+    src:url('/wp-content/fonts/PWAlabama.ttf.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .no-bottom-margin {
     margin-bottom: 0px! important;
+}
+
+.aso-font {
+    font-family: "PWAlabama","Open Sans",sans-serif! important;
+    font-size: 25px;
 }

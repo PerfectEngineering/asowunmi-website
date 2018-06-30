@@ -13,10 +13,10 @@ stop:
 pull: login
 	docker-compose -f docker-compose.yml pull
 
-run: stop pull
+run: stop
 	docker-compose -f docker-compose.yml up -d --force-recreate
 
-run-stage: stop pull
+run-stage: stop
 	docker-compose -f docker-compose.yml -f docker-compose.stage.yml up -d --force-recreate
 
 run-local: stop
