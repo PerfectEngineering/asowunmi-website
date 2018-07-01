@@ -28,7 +28,7 @@ function asoRemoveBillingPostCode( $fields ) {
 
 add_filter('og_og_description_meta', 'asoOverrideOgDescription');
 function asoOverrideOgDescription($title) {
-    if ( is_home() ) {
+    if ( is_front_page() ) {
       // override the description for home
         return '<meta property="og:description" content="Asowunmi is a female fashion apparel brand that offers bespoke services and ready to wear pieces." />';
     }
@@ -37,7 +37,7 @@ function asoOverrideOgDescription($title) {
 
 add_filter('og_twitter_description_meta', 'asoOverrideTwitterDescription');
 function asoOverrideTwitterDescription($title) {
-    if ( is_home() ) {
+    if ( is_front_page() ) {
       // override the description for home
         return '<meta property="twitter:description" content="Asowunmi is a female fashion apparel brand that offers bespoke services and ready to wear pieces." />';
     }
