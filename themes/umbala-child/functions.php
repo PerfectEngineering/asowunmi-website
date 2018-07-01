@@ -25,3 +25,21 @@ function asoRemoveBillingPostCode( $fields ) {
 //     // bugfix version of global
 //     wp_enqueue_script('umbala-child-global', get_stylesheet_directory_uri().'/js/global.js', array('jquery'), '1.1');
 // }
+
+add_filter('og_og_description_meta', 'asoOverrideOgDescription');
+function asoOverrideOgDescription($title) {
+    if ( is_home() ) {
+      // override the description for home
+        return '<meta property="og:description" content="Asowunmi is a female fashion apparel brand that offers bespoke services and ready to wear pieces." />';
+    }
+    return $title;
+}
+
+add_filter('og_twitter_description_meta', 'asoOverrideTwitterDescription');
+function asoOverrideTwitterDescription($title) {
+    if ( is_home() ) {
+      // override the description for home
+        return '<meta property="twitter:description" content="Asowunmi is a female fashion apparel brand that offers bespoke services and ready to wear pieces." />';
+    }
+    return $title;
+}
