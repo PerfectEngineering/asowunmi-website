@@ -1,0 +1,3512 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Umbala\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 03:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/helpers.php:751
+msgid " - Edit"
+msgstr ""
+
+#: functions.php:89
+msgid " has been added to your cart."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:178
+msgid " Meta position"
+msgstr ""
+
+#: inc/helpers.php:750
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: inc/walkers.php:95
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/walkers.php:99
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/widgets/blogs.php:115 template-parts/post/content.php:72
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:38
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:34
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:17
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/widgets/mega_menu.php:75
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/walkers.php:230
+msgid "1"
+msgstr ""
+
+#: inc/widgets/blogs.php:117 template-parts/post/content.php:74
+msgid "1 Comment"
+msgstr ""
+
+#: inc/walkers.php:231
+msgid "2"
+msgstr ""
+
+#: inc/walkers.php:232
+msgid "3"
+msgstr ""
+
+#: inc/walkers.php:233
+msgid "4"
+msgstr ""
+
+#: inc/helpers.php:131
+msgid "404 - Page not Found"
+msgstr ""
+
+#: inc/theme_options.php:1235
+msgid "Accordion"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1387
+msgid "Activate link"
+msgstr ""
+
+#: inc/theme_options.php:686
+msgid "Activate Quickshop"
+msgstr ""
+
+#: inc/widgets/mega_menu.php:13
+msgid "Add a custom mega menu to your sidebar."
+msgstr ""
+
+#: inc/vc_element/vc_config.php:13
+msgid "Add Background Image on Design Options"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1011
+msgid "Add Hover Effect on Image"
+msgstr ""
+
+#: inc/sidebar.php:202
+msgid "Add Sidebar"
+msgstr ""
+
+#: inc/sidebar.php:31
+msgid "Add widgets in product category page."
+msgstr ""
+
+#: inc/sidebar.php:49
+msgid "Add widgets in product detail page."
+msgstr ""
+
+#: inc/sidebar.php:40
+msgid "Add widgets in product filters content."
+msgstr ""
+
+#: inc/sidebar.php:22
+msgid "Add widgets in your blog detail."
+msgstr ""
+
+#: inc/sidebar.php:13
+msgid "Add widgets in your blog."
+msgstr ""
+
+#: inc/sidebar.php:84 inc/sidebar.php:91 inc/sidebar.php:98
+msgid "Add widgets in your footer."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1473
+msgid "Address"
+msgstr ""
+
+#: inc/theme_options.php:1246
+msgid "After Summary"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1659
+msgid "Alert"
+msgstr ""
+
+#: inc/helpers.php:439
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:159
+msgid "All Posts"
+msgstr ""
+
+#: inc/helpers.php:352
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:269
+msgid "Alura-Studio"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:964
+msgid "Alus Banner"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:519
+msgid "Alus Blogs"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1339
+msgid "Alus Brands Slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1617
+msgid "Alus Button"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1589
+msgid "Alus Countdown"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2632
+msgid "Alus Counter Up"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:407
+msgid "Alus Feature Box"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1465
+msgid "Alus Google Map"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:801
+msgid "Alus Images Gallery"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:332
+msgid "Alus Instagram Feed"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:266
+msgid "Alus Mailchimp Subscription"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:93
+msgid "Alus Mega Menu Widget"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2411
+msgid "Alus Product Categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1738
+msgid "Alus Products"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2158
+msgid "Alus Products Deals"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1990
+msgid "Alus Products Widget"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:13
+msgid "Alus Section Title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:127
+msgid "Alus Team Member"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1275
+msgid "Alus Testimonial"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1096
+msgid "Alus Testimonials"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2596
+msgid "Alus Video"
+msgstr ""
+
+#: inc/widgets/product_filter_by_color.php:175
+msgid "AND"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:27
+msgid "and"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/helpers.php:132
+msgid "Archive by category "
+msgstr ""
+
+#: inc/helpers.php:385
+msgid "Archives"
+msgstr ""
+
+#: inc/helpers.php:134
+msgid "Articles posted by: "
+msgstr ""
+
+#: inc/vc_element/vc_map.php:591 inc/vc_element/vc_map.php:1820
+#: inc/vc_element/vc_map.php:2240 inc/widgets/blogs.php:243
+#: inc/widgets/product_categories.php:153
+msgid "Ascending"
+msgstr ""
+
+#: inc/helpers.php:370
+msgid "Asides"
+msgstr ""
+
+#: inc/helpers.php:376
+msgid "Audio"
+msgstr ""
+
+#: inc/custom_metaboxes.php:317
+msgid "Audio URL:"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:723 inc/vc_element/vc_map.php:1912
+#: inc/vc_element/vc_map.php:2142 inc/vc_element/vc_map.php:2333
+#: inc/vc_element/vc_map.php:2520 inc/widgets/blogs.php:311
+#: inc/widgets/products.php:316 inc/widgets/recent_comments.php:225
+msgid "Auto play"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:870 inc/vc_element/vc_map.php:1151
+#: inc/vc_element/vc_map.php:1407
+msgid "Autoplay"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:65
+msgid "Awaiting product image"
+msgstr ""
+
+#: footer.php:36
+msgid "Back to Top"
+msgstr ""
+
+#: inc/walkers.php:275 inc/vc_element/vc_map.php:298
+#: inc/vc_element/vc_map.php:972
+msgid "Background Image"
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:99
+msgid "Background image"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:12 inc/vc_element/vc_config.php:23
+msgid "Background Options"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:9
+msgid "Background Parallax"
+msgstr ""
+
+#: inc/walkers.php:304 inc/vc_element/vc_config.php:21
+msgid "Background Position"
+msgstr ""
+
+#: inc/walkers.php:292
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1776 inc/vc_element/vc_map.php:2196
+msgid "Badge"
+msgstr ""
+
+#: inc/walkers.php:258
+msgid "Badge background color"
+msgstr ""
+
+#: inc/walkers.php:251
+msgid "Badge text"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1015
+msgid "Banner Content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1059
+msgid "Banner content background color"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1023
+msgid "Banner Content Position "
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1042
+msgid "Banner content width"
+msgstr ""
+
+#: inc/custom_metaboxes.php:176
+msgid "Before Header"
+msgstr ""
+
+#: inc/custom_metaboxes.php:177
+msgid "Before Main Content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:40
+msgid "Before Title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1789 inc/vc_element/vc_map.php:2014
+#: inc/vc_element/vc_map.php:2209
+msgid "Best Selling"
+msgstr ""
+
+#: inc/widgets/products.php:233
+msgid "Best selling"
+msgstr ""
+
+#: inc/walkers.php:266
+msgid "Black"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page Template"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1347
+msgid "Block title"
+msgstr ""
+
+#: inc/helpers.php:136 inc/helpers.php:334 inc/theme_options.php:1304
+#: inc/theme_options.php:1312
+msgid "Blog"
+msgstr ""
+
+#: inc/theme_options.php:1358
+msgid "Blog Author"
+msgstr ""
+
+#: inc/theme_options.php:1518
+msgid "Blog Author Box"
+msgstr ""
+
+#: inc/theme_options.php:1390 inc/theme_options.php:1486
+msgid "Blog Categories"
+msgstr ""
+
+#: inc/theme_options.php:1366
+msgid "Blog Comment"
+msgstr ""
+
+#: inc/theme_options.php:1534
+msgid "Blog Comment Form"
+msgstr ""
+
+#: inc/theme_options.php:1478
+msgid "Blog Content"
+msgstr ""
+
+#: inc/theme_options.php:1374
+msgid "Blog Count View"
+msgstr ""
+
+#: inc/theme_options.php:1342 inc/theme_options.php:1462
+msgid "Blog Date"
+msgstr ""
+
+#: inc/theme_options.php:1437
+msgid "Blog Detail Layout"
+msgstr ""
+
+#: inc/sidebar.php:20
+msgid "Blog Detail Sidebar"
+msgstr ""
+
+#: inc/theme_options.php:1432
+msgid "Blog Details"
+msgstr ""
+
+#: inc/theme_options.php:1406
+msgid "Blog Excerpt"
+msgstr ""
+
+#: inc/theme_options.php:1420
+msgid "Blog Excerpt Max Words"
+msgstr ""
+
+#: inc/theme_options.php:1414
+msgid "Blog Excerpt Strip All Tags"
+msgstr ""
+
+#: inc/theme_options.php:1317 inc/vc_element/vc_map.php:535
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme_options.php:1510
+msgid "Blog Navigation"
+msgstr ""
+
+#: inc/theme_options.php:1382
+msgid "Blog Read More Button"
+msgstr ""
+
+#: inc/theme_options.php:1526
+msgid "Blog Related Posts"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:603 inc/vc_element/vc_map.php:613
+#: inc/vc_element/vc_map.php:622 inc/vc_element/vc_map.php:632
+#: inc/vc_element/vc_map.php:642 inc/vc_element/vc_map.php:652
+#: inc/vc_element/vc_map.php:661 inc/vc_element/vc_map.php:671
+#: inc/vc_element/vc_map.php:680
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/theme_options.php:1502
+msgid "Blog Sharing"
+msgstr ""
+
+#: inc/sidebar.php:11
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme_options.php:1398 inc/theme_options.php:1494
+msgid "Blog Tags"
+msgstr ""
+
+#: inc/theme_options.php:1334 inc/theme_options.php:1454
+msgid "Blog Thumbnail"
+msgstr ""
+
+#: inc/theme_options.php:1350 inc/theme_options.php:1470
+msgid "Blog Title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:527
+msgid "Blog title"
+msgstr ""
+
+#: inc/walkers.php:263
+msgid "Blue"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1005
+msgid "Blur"
+msgstr ""
+
+#: inc/theme_options.php:535
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme_options.php:604
+msgid "Body Font - Google Font"
+msgstr ""
+
+#: inc/theme_options.php:636
+msgid "Body Font Line Heigh"
+msgstr ""
+
+#: inc/theme_options.php:626
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1694
+msgid "Border Radius"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:35 inc/vc_element/vc_map.php:193
+msgid "Bordered"
+msgstr ""
+
+#: inc/custom_metaboxes.php:32 inc/theme_options.php:99
+#: inc/vc_element/vc_map.php:1126
+msgid "Boxed"
+msgstr ""
+
+#: inc/custom_metaboxes.php:347
+msgid "Brand Options"
+msgstr ""
+
+#: inc/custom_metaboxes.php:356
+msgid "Brand URL"
+msgstr ""
+
+#: inc/theme_options.php:170
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/custom_metaboxes.php:149 inc/custom_metaboxes.php:287
+#: inc/custom_metaboxes.php:413
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/custom_metaboxes.php:137 inc/theme_options.php:191
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: inc/custom_metaboxes.php:142
+msgid "Breadcrumb Layout 1"
+msgstr ""
+
+#: inc/custom_metaboxes.php:143
+msgid "Breadcrumb Layout 2"
+msgstr ""
+
+#: inc/custom_metaboxes.php:510 inc/theme_options.php:201
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:396
+msgid "Cache time (hours)"
+msgstr ""
+
+#: 404.php:11
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: inc/walkers.php:342
+msgid "Cancel"
+msgstr ""
+
+#: inc/widgets/products.php:277
+msgid "Catalog Image"
+msgstr ""
+
+#: inc/theme_options.php:693
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:564 inc/vc_element/vc_map.php:1371
+msgid "Categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2427
+msgid "Categories Layout"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:428
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/post/content-single.php:86 template-parts/post/content.php:87
+msgid "Categories: "
+msgstr ""
+
+#: inc/helpers.php:367
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/custom_metaboxes.php:518
+msgid "Category Layout"
+msgstr ""
+
+#: inc/custom_metaboxes.php:503
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:440 inc/vc_element/vc_map.php:1302
+msgid "Center"
+msgstr ""
+
+#: inc/walkers.php:313 inc/vc_element/vc_map.php:1034
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:34
+msgid "Center bottom"
+msgstr ""
+
+#: inc/walkers.php:314 inc/vc_element/vc_map.php:1035
+msgid "Center Center"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:33
+msgid "Center center"
+msgstr ""
+
+#: inc/walkers.php:312 inc/vc_element/vc_map.php:1033
+msgid "Center Top"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:32
+msgid "Center top"
+msgstr ""
+
+#: inc/woocommerce/functions.php:178
+msgid "Checkout"
+msgstr ""
+
+#: inc/custom_metaboxes.php:304
+msgid "Choose to hide related posts on this post."
+msgstr ""
+
+#: inc/custom_metaboxes.php:421
+msgid "Choose to hide related product on this product."
+msgstr ""
+
+#: inc/custom_metaboxes.php:311
+msgid "Choose to hide the post comment area."
+msgstr ""
+
+#: inc/custom_metaboxes.php:297
+msgid "Choose to hide the post social share box."
+msgstr ""
+
+#: inc/custom_metaboxes.php:69
+msgid "Choose to hide top bar."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:148
+msgid "Circle"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:119
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/archive-product.php:26 woocommerce/archive-product.php:113
+#: inc/woocommerce/functions.php:53 inc/woocommerce/functions.php:155
+#: inc/woocommerce/hooks.php:409
+msgid "Close"
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:17
+msgid "Close (Esc)"
+msgstr ""
+
+#: inc/custom_metaboxes.php:563 inc/vc_element/vc_map.php:1008
+#: inc/vc_element/vc_map.php:1654
+msgid "Color"
+msgstr ""
+
+#: inc/custom_metaboxes.php:556
+msgid "Color Metabox"
+msgstr ""
+
+#: inc/theme_options.php:515
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:192
+msgid "Colored"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:364
+msgid "Column"
+msgstr ""
+
+#: inc/walkers.php:228 inc/vc_element/vc_map.php:547
+#: inc/vc_element/vc_map.php:837 inc/vc_element/vc_map.php:1131
+#: inc/vc_element/vc_map.php:1836 inc/vc_element/vc_map.php:2256
+#: inc/vc_element/vc_map.php:2439
+msgid "Columns"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1806 inc/vc_element/vc_map.php:2226
+#: inc/widgets/blogs.php:235
+msgid "Comment count"
+msgstr ""
+
+#: comments.php:16
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:9
+msgid "Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1317
+msgid "Company"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1516
+msgid "Content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1532
+msgid "Content Background"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1540
+msgid "Content width"
+msgstr ""
+
+#: template-parts/post/content.php:63 template-parts/post/related-posts.php:50
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:613
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: inc/woocommerce/functions.php:60
+msgid "Create an Account"
+msgstr ""
+
+#: inc/walkers.php:177
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:389
+msgid "Current window"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:938
+msgid "Custom link"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:943
+msgid "Custom links"
+msgstr ""
+
+#: inc/sidebar.php:199
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/custom_metaboxes.php:458
+msgid "Custom Tab"
+msgstr ""
+
+#: inc/custom_metaboxes.php:476
+msgid "Custom Tab Content"
+msgstr ""
+
+#: inc/custom_metaboxes.php:469
+msgid "Custom Tab Title"
+msgstr ""
+
+#: inc/helpers.php:355
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/custom_metaboxes.php:100 inc/vc_element/vc_map.php:1525
+#: inc/vc_element/vc_map.php:1635
+msgid "Dark"
+msgstr ""
+
+#: inc/theme_options.php:807 inc/theme_options.php:980
+#: inc/vc_element/vc_map.php:1810 inc/vc_element/vc_map.php:1823
+#: inc/vc_element/vc_map.php:1849 inc/vc_element/vc_map.php:2230
+#: inc/vc_element/vc_map.php:2243 inc/vc_element/vc_map.php:2269
+msgid "Data Setting"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:578 inc/vc_element/vc_map.php:1597
+#: inc/vc_element/vc_map.php:1803 inc/vc_element/vc_map.php:2223
+#: inc/widgets/blogs.php:234
+msgid "Date"
+msgstr ""
+
+#: functions.php:85
+msgid "days"
+msgstr ""
+
+#: inc/custom_metaboxes.php:30 inc/custom_metaboxes.php:79
+#: inc/custom_metaboxes.php:99 inc/custom_metaboxes.php:105
+#: inc/custom_metaboxes.php:141 inc/custom_metaboxes.php:261
+#: inc/custom_metaboxes.php:387 inc/custom_metaboxes.php:432
+#: inc/custom_metaboxes.php:462 inc/custom_metaboxes.php:522
+#: inc/theme_options.php:1234 inc/walkers.php:207 inc/vc_element/vc_map.php:34
+#: inc/vc_element/vc_map.php:147 inc/vc_element/vc_map.php:310
+#: inc/vc_element/vc_map.php:463 inc/vc_element/vc_map.php:1125
+#: inc/vc_element/vc_map.php:1607 inc/vc_element/vc_map.php:1669
+#: inc/vc_element/vc_map.php:1770 inc/vc_element/vc_map.php:2190
+#: inc/vc_element/vc_map.php:2660 inc/widgets/mailchimp_subscription.php:105
+msgid "Default"
+msgstr ""
+
+#: inc/theme_options.php:793
+msgid "Default catalog view"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:590 inc/vc_element/vc_map.php:1819
+#: inc/vc_element/vc_map.php:2239 inc/widgets/blogs.php:244
+#: inc/widgets/product_categories.php:154
+msgid "Descending"
+msgstr ""
+
+#: inc/walkers.php:189
+msgid "Description"
+msgstr ""
+
+#: inc/walkers.php:205
+msgid "Design"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:743 inc/vc_element/vc_map.php:878
+#: inc/vc_element/vc_map.php:1193 inc/vc_element/vc_map.php:1416
+#: inc/vc_element/vc_map.php:1932 inc/vc_element/vc_map.php:2353
+#: inc/vc_element/vc_map.php:2538
+msgid "Desktop small items"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:7
+#: inc/third-party/options-framework/header.tpl.php:42
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/theme_options.php:398
+msgid "Disable"
+msgstr ""
+
+#: inc/widgets/blogs.php:13
+msgid "Display blogs on your sidebar"
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:13
+msgid "Display Mailchimp Subscription Form"
+msgstr ""
+
+#: inc/widgets/product_categories.php:13
+msgid "Display Product Categories"
+msgstr ""
+
+#: inc/theme_options.php:794
+msgid "Display products in grid or list view by default"
+msgstr ""
+
+#: inc/widgets/products.php:13
+msgid "Display products on your sidebar"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:13
+msgid "Display recent comments on your sidebar"
+msgstr ""
+
+#: inc/theme_options.php:1013
+msgid ""
+"Display the product title in the page content instead of above the "
+"breadcrumbs"
+msgstr ""
+
+#: inc/widgets/product_categories.php:138
+msgid "Don't select to show all"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:219
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/theme_options.php:432 inc/theme_options.php:464
+msgid "Dropdown"
+msgstr ""
+
+#: inc/walkers.php:221
+msgid "Dropdown Height"
+msgstr ""
+
+#: inc/walkers.php:215
+msgid "Dropdown Width"
+msgstr ""
+
+#: inc/helpers.php:727
+msgid "Edit"
+msgstr ""
+
+#: inc/walkers.php:142 inc/walkers.php:144
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/theme_options.php:397
+msgid "Enable"
+msgstr ""
+
+#: inc/theme_options.php:480
+msgid "Enable Ajax Search"
+msgstr ""
+
+#: inc/theme_options.php:653
+msgid "Enable Back Image"
+msgstr ""
+
+#: inc/theme_options.php:106
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: inc/theme_options.php:114
+msgid "Enable Back To Top Button On Mobile"
+msgstr ""
+
+#: inc/theme_options.php:700
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: inc/theme_options.php:217
+msgid "Enable Popup"
+msgstr ""
+
+#: inc/theme_options.php:1221
+msgid "Enable Product Tabs"
+msgstr ""
+
+#: inc/theme_options.php:1150
+msgid "Enable Sticky Product Bar"
+msgstr ""
+
+#: inc/custom_metaboxes.php:290
+msgid "Enter Breadcrumb Background Image URL"
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:95
+msgid "Enter intro text"
+msgstr ""
+
+#: inc/custom_metaboxes.php:318
+msgid "Enter MP3, OGG, WAV file URL or SoundCloud URL (for audio post format)."
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:91
+msgid "Enter title"
+msgstr ""
+
+#: inc/widgets/blogs.php:219 inc/widgets/products.php:223
+#: inc/widgets/product_categories.php:106
+msgid "Enter your title"
+msgstr ""
+
+#: inc/custom_metaboxes.php:484
+msgid "Enter Youtube or Vimeo video URL"
+msgstr ""
+
+#: inc/custom_metaboxes.php:325
+msgid "Enter Youtube or Vimeo video URL (for video post format)."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1697
+msgid "Ex: 4"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2624
+msgid "Ex: 450"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2616
+msgid "Ex: 800"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1704
+msgid "Ex: fa-home"
+msgstr ""
+
+#: inc/walkers.php:246
+msgid "Ex: fa-star"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:821 inc/vc_element/vc_map.php:984
+msgid "Ex: thumbnail, medium, large or full"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1293
+msgid "Example: 80"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1085
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:508
+msgid "Extra class"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:78 inc/vc_element/vc_map.php:116
+#: inc/vc_element/vc_map.php:1187 inc/vc_element/vc_map.php:1330
+#: inc/vc_element/vc_map.php:1725
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:199
+msgid "Facebook link"
+msgstr ""
+
+#: inc/theme_options.php:668 inc/vc_element/vc_map.php:1006
+msgid "Fade In"
+msgstr ""
+
+#: inc/theme_options.php:669 inc/vc_element/vc_map.php:1007
+msgid "Fade Out"
+msgstr ""
+
+#: inc/theme_options.php:156
+msgid "Favicon Image"
+msgstr ""
+
+#: inc/theme_options.php:162
+msgid "Favicon retina image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:473
+msgid "Feature title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1788 inc/vc_element/vc_map.php:2013
+#: inc/vc_element/vc_map.php:2208 inc/widgets/products.php:232
+#: template-parts/post/content.php:24
+msgid "Featured"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:394
+msgid "Filters"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1599
+msgid "Final date in the format Y/m/d. For example 2018/12/12"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:61
+msgid "Font-Size Title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:68
+msgid "Font-Weight"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:419
+msgid "FontAwesome"
+msgstr ""
+
+#: inc/custom_metaboxes.php:239 inc/helpers.php:965 inc/sidebar.php:94
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/custom_metaboxes.php:231 inc/sidebar.php:87
+msgid "Footer Middle"
+msgstr ""
+
+#: inc/custom_metaboxes.php:223 inc/helpers.php:962 inc/sidebar.php:80
+msgid "Footer Top"
+msgstr ""
+
+#: inc/woocommerce/functions.php:89
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:274
+msgid "Form"
+msgstr ""
+
+#: inc/helpers.php:137
+msgid "Front Page"
+msgstr ""
+
+#: inc/custom_metaboxes.php:31 inc/theme_options.php:98 inc/walkers.php:208
+msgid "Full width"
+msgstr ""
+
+#: inc/custom_metaboxes.php:43 inc/custom_metaboxes.php:262
+#: inc/custom_metaboxes.php:388 inc/custom_metaboxes.php:523
+msgid "Fullwidth"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: inc/helpers.php:382
+msgid "Galleries"
+msgstr ""
+
+#: inc/theme_options.php:90
+msgid "General"
+msgstr ""
+
+#: inc/theme_options.php:122
+msgid "Google API key"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:209
+msgid "Google+ link"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1009
+msgid "Grayscale"
+msgstr ""
+
+#: inc/walkers.php:262
+msgid "Green"
+msgstr ""
+
+#: inc/walkers.php:265
+msgid "Grey"
+msgstr ""
+
+#: inc/theme_options.php:799 inc/vc_element/vc_map.php:539
+#: inc/vc_element/vc_map.php:829 inc/vc_element/vc_map.php:1117
+#: inc/vc_element/vc_map.php:1758 inc/vc_element/vc_map.php:2178
+#: inc/vc_element/vc_map.php:2431
+msgid "Grid"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:239
+msgid "Grid view"
+msgstr ""
+
+#: inc/theme_options.php:916
+msgid "Grid View - Limit Words"
+msgstr ""
+
+#: inc/theme_options.php:781
+msgid "Grid, List View"
+msgstr ""
+
+#: inc/theme_options.php:297
+msgid "Header"
+msgstr ""
+
+#: inc/theme_options.php:390
+msgid "Header Content - Information (Header-layout3)"
+msgstr ""
+
+#: inc/theme_options.php:395
+msgid "Header Currency"
+msgstr ""
+
+#: inc/theme_options.php:406
+msgid "Header Language"
+msgstr ""
+
+#: inc/custom_metaboxes.php:75 inc/theme_options.php:303
+msgid "Header Layout"
+msgstr ""
+
+#: inc/custom_metaboxes.php:80
+msgid "Header Layout 1"
+msgstr ""
+
+#: inc/custom_metaboxes.php:81
+msgid "Header Layout 2"
+msgstr ""
+
+#: inc/custom_metaboxes.php:82
+msgid "Header Layout 3"
+msgstr ""
+
+#: inc/theme_options.php:324
+msgid "Header on mobile devices"
+msgstr ""
+
+#: inc/custom_metaboxes.php:95
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1480 inc/vc_element/vc_map.php:2620
+msgid "Height"
+msgstr ""
+
+#: inc/woocommerce/functions.php:21
+#, php-format
+msgid "Hello, %s"
+msgstr ""
+
+#: inc/custom_metaboxes.php:445 inc/theme_options.php:774
+#: inc/theme_options.php:789 inc/theme_options.php:840
+#: inc/theme_options.php:849 inc/theme_options.php:858
+#: inc/theme_options.php:867 inc/theme_options.php:876
+#: inc/theme_options.php:885 inc/theme_options.php:894
+#: inc/theme_options.php:903 inc/theme_options.php:912
+#: inc/theme_options.php:929 inc/theme_options.php:993
+#: inc/theme_options.php:1001 inc/theme_options.php:1009
+#: inc/theme_options.php:1023 inc/theme_options.php:1031
+#: inc/theme_options.php:1039 inc/theme_options.php:1047
+#: inc/theme_options.php:1055 inc/theme_options.php:1063
+#: inc/theme_options.php:1071 inc/theme_options.php:1079
+#: inc/theme_options.php:1087 inc/theme_options.php:1095
+#: inc/theme_options.php:1130 inc/theme_options.php:1182
+#: inc/theme_options.php:1190 inc/theme_options.php:1205
+#: inc/theme_options.php:1225 inc/theme_options.php:1255
+#: inc/theme_options.php:1284 inc/theme_options.php:1292
+#: inc/theme_options.php:1339 inc/theme_options.php:1347
+#: inc/theme_options.php:1355 inc/theme_options.php:1363
+#: inc/theme_options.php:1371 inc/theme_options.php:1379
+#: inc/theme_options.php:1387 inc/theme_options.php:1395
+#: inc/theme_options.php:1403 inc/theme_options.php:1411
+#: inc/theme_options.php:1459 inc/theme_options.php:1467
+#: inc/theme_options.php:1475 inc/theme_options.php:1483
+#: inc/theme_options.php:1491 inc/theme_options.php:1499
+#: inc/theme_options.php:1507 inc/theme_options.php:1515
+#: inc/theme_options.php:1523 inc/theme_options.php:1531
+#: inc/theme_options.php:1539
+msgid "Hide"
+msgstr ""
+
+#: inc/theme_options.php:701
+msgid ""
+"Hide all Add To Cart buttons on your site. You can also hide Shopping cart "
+"by going to Header tab > turn Shopping Cart option off"
+msgstr ""
+
+#: inc/custom_metaboxes.php:130
+msgid "Hide breadcrumb"
+msgstr ""
+
+#: inc/custom_metaboxes.php:310
+msgid "Hide Comment Form"
+msgstr ""
+
+#: inc/widgets/product_categories.php:119
+msgid "Hide empty categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2479
+msgid "Hide empty product categories"
+msgstr ""
+
+#: inc/theme_options.php:288
+msgid "Hide for mobile devices"
+msgstr ""
+
+#: inc/custom_metaboxes.php:123
+msgid "Hide page title"
+msgstr ""
+
+#: inc/custom_metaboxes.php:303
+msgid "Hide Related Post"
+msgstr ""
+
+#: inc/custom_metaboxes.php:420
+msgid "Hide Related Product"
+msgstr ""
+
+#: inc/custom_metaboxes.php:296
+msgid "Hide Social Share Box"
+msgstr ""
+
+#: inc/custom_metaboxes.php:68
+msgid "Hide Top bar"
+msgstr ""
+
+#: inc/helpers.php:129
+msgid "Home"
+msgstr ""
+
+#: inc/custom_metaboxes.php:434 inc/theme_options.php:1140
+msgid "Horizontal"
+msgstr ""
+
+#: functions.php:86
+msgid "hours"
+msgstr ""
+
+#: inc/theme_options.php:660
+msgid "Hover Back Image Style"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:996
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/walkers.php:239
+msgid "HTML Static Block"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://alura-studio.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.alura-studio.com/umbala/"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1701
+msgid "Icon"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:426
+msgid "Icon class"
+msgstr ""
+
+#: inc/walkers.php:245
+msgid "Icon name (from FontAwesome set)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1708
+msgid "Icon Position"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:435
+msgid "Icon position"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:577 inc/vc_element/vc_map.php:1802
+#: inc/vc_element/vc_map.php:2222 inc/widgets/blogs.php:232
+msgid "ID"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:32
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/theme_options.php:407
+msgid "If you don't install WPML plugin, it will display demo html"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:420 inc/vc_element/vc_map.php:809
+msgid "Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1297
+msgid "Image Position"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:372 inc/vc_element/vc_map.php:817
+#: inc/vc_element/vc_map.php:980
+msgid "Image Size"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:143 inc/vc_element/vc_map.php:459
+msgid "Image Style"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:450
+msgid "Image Thumbnail"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1290
+msgid "Image Width"
+msgstr ""
+
+#: inc/theme_options.php:627
+msgid "In pixels. Default is 14px"
+msgstr ""
+
+#: inc/theme_options.php:637
+msgid "In pixels. Default is 24px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1647
+msgid "Inherit"
+msgstr ""
+
+#: inc/theme_options.php:491
+msgid "Input -1 to show all results"
+msgstr ""
+
+#: inc/theme_options.php:1421
+msgid "Input -1 to show full excerpt"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1490
+msgid "Input a number between 0 and 20"
+msgstr ""
+
+#: inc/theme_options.php:1247
+msgid "Inside Summary"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:224
+msgid "Instagram link"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:290
+msgid "Intro Text"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:465 inc/vc_element/vc_map.php:1774
+#: inc/vc_element/vc_map.php:2194
+msgid "Label"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:376 inc/vc_element/vc_map.php:1685
+msgid "Large"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1686
+msgid "Larger"
+msgstr ""
+
+#: inc/custom_metaboxes.php:25 inc/theme_options.php:95
+#: inc/theme_options.php:744 inc/theme_options.php:952
+#: inc/vc_element/vc_map.php:825 inc/vc_element/vc_map.php:1113
+msgid "Layout"
+msgstr ""
+
+#: inc/theme_options.php:194
+msgid "Layout 1"
+msgstr ""
+
+#: inc/theme_options.php:195
+msgid "Layout 2"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:441 inc/vc_element/vc_map.php:1303
+#: inc/vc_element/vc_map.php:1712
+msgid "Left"
+msgstr ""
+
+#: inc/custom_metaboxes.php:46 inc/custom_metaboxes.php:265
+#: inc/custom_metaboxes.php:391 inc/custom_metaboxes.php:526
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: inc/walkers.php:307 inc/vc_element/vc_map.php:1028
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:28
+msgid "Left bottom"
+msgstr ""
+
+#: inc/walkers.php:308 inc/vc_element/vc_map.php:1029
+msgid "Left Center"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:27
+msgid "Left center"
+msgstr ""
+
+#: inc/custom_metaboxes.php:44 inc/custom_metaboxes.php:52
+#: inc/custom_metaboxes.php:263 inc/custom_metaboxes.php:271
+#: inc/custom_metaboxes.php:389 inc/custom_metaboxes.php:397
+#: inc/custom_metaboxes.php:524 inc/custom_metaboxes.php:532
+#: inc/theme_options.php:755 inc/theme_options.php:963
+#: inc/theme_options.php:1322 inc/theme_options.php:1442
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/walkers.php:306 inc/vc_element/vc_map.php:1027
+msgid "Left Top"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:26
+msgid "Left top"
+msgstr ""
+
+#: inc/custom_metaboxes.php:101 inc/vc_element/vc_map.php:311
+#: inc/vc_element/vc_map.php:1526 inc/vc_element/vc_map.php:1608
+#: inc/vc_element/vc_map.php:1636 inc/vc_element/vc_map.php:2661
+#: inc/widgets/mailchimp_subscription.php:106
+msgid "Light"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:937
+msgid "Lightbox"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:556 inc/vc_element/vc_map.php:1355
+#: inc/vc_element/vc_map.php:2022 inc/vc_element/vc_map.php:2457
+msgid "Limit"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:170 inc/vc_element/vc_map.php:489
+#: inc/vc_element/vc_map.php:1067 inc/vc_element/vc_map.php:1718
+msgid "Link"
+msgstr ""
+
+#: inc/walkers.php:183
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:214
+msgid "Linkedin link"
+msgstr ""
+
+#: inc/theme_options.php:800
+msgid "List"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2475
+msgid "List of product categories"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:239
+msgid "List view"
+msgstr ""
+
+#: inc/theme_options.php:933
+msgid "List View - Limit Words"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:693
+msgid "Load more button text"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1883
+msgid "Load more text"
+msgstr ""
+
+#: inc/woocommerce/functions.php:83
+msgid "Login"
+msgstr ""
+
+#: inc/woocommerce/functions.php:18
+msgid "Login / Register"
+msgstr ""
+
+#: inc/custom_metaboxes.php:88
+msgid "Logo"
+msgstr ""
+
+#: inc/theme_options.php:136
+msgid "Logo - Favicon"
+msgstr ""
+
+#: inc/theme_options.php:141
+msgid "Logo Image"
+msgstr ""
+
+#: inc/theme_options.php:150
+msgid "Logo Image for sticky header"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:60
+msgid "Logout"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1494
+msgid "Map Icon"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:733 inc/vc_element/vc_map.php:846
+#: inc/vc_element/vc_map.php:1139 inc/vc_element/vc_map.php:1379
+#: inc/vc_element/vc_map.php:1922 inc/vc_element/vc_map.php:2343
+#: inc/vc_element/vc_map.php:2529
+msgid "Margin"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:541 inc/vc_element/vc_map.php:830
+#: inc/vc_element/vc_map.php:1759 inc/vc_element/vc_map.php:2179
+#: inc/vc_element/vc_map.php:2432
+msgid "Masonry"
+msgstr ""
+
+#: inc/walkers.php:201
+msgid "Mega Menu Options"
+msgstr ""
+
+#: functions.php:87
+msgid "mins"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1791 inc/vc_element/vc_map.php:2016
+#: inc/vc_element/vc_map.php:2211
+msgid "Mixed Order"
+msgstr ""
+
+#: inc/widgets/products.php:235
+msgid "Mixed order"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:776 inc/vc_element/vc_map.php:911
+#: inc/vc_element/vc_map.php:1241 inc/vc_element/vc_map.php:1443
+#: inc/vc_element/vc_map.php:1965 inc/vc_element/vc_map.php:2386
+#: inc/vc_element/vc_map.php:2571
+msgid "Mobile items"
+msgstr ""
+
+#: inc/functions.php:63
+msgid "Mobile Navigation"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:787 inc/vc_element/vc_map.php:922
+#: inc/vc_element/vc_map.php:1257 inc/vc_element/vc_map.php:1452
+#: inc/vc_element/vc_map.php:1976 inc/vc_element/vc_map.php:2397
+#: inc/vc_element/vc_map.php:2582
+msgid "Mobile small items"
+msgstr ""
+
+#: inc/helpers.php:358
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/helpers.php:358
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/walkers.php:140
+msgid "Move down"
+msgstr ""
+
+#: inc/walkers.php:125
+msgid "Move up"
+msgstr ""
+
+#: inc/theme_options.php:418
+msgid "My Account"
+msgstr ""
+
+#: inc/theme_options.php:429
+msgid "My Account Type"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:425
+msgid "N/A"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:154 inc/vc_element/vc_map.php:579
+#: inc/vc_element/vc_map.php:1310 inc/vc_element/vc_map.php:1804
+#: inc/vc_element/vc_map.php:2224 inc/widgets/product_categories.php:143
+msgid "Name"
+msgstr ""
+
+#: inc/walkers.php:159
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:390
+msgid "New window"
+msgstr ""
+
+#: inc/custom_metaboxes.php:368 inc/vc_element/vc_map.php:251
+#: inc/vc_element/vc_map.php:501 inc/vc_element/vc_map.php:954
+#: inc/vc_element/vc_map.php:1078
+msgid "New Window Tab"
+msgstr ""
+
+#: comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:41
+msgid "Next (arrow right)"
+msgstr ""
+
+#: inc/theme_options.php:109 inc/theme_options.php:117
+#: inc/theme_options.php:178 inc/theme_options.php:186
+#: inc/theme_options.php:220 inc/theme_options.php:348
+#: inc/theme_options.php:356 inc/theme_options.php:409
+#: inc/theme_options.php:420 inc/theme_options.php:444
+#: inc/theme_options.php:455 inc/theme_options.php:476
+#: inc/theme_options.php:553 inc/vc_element/vc_map.php:1392
+#: inc/vc_element/vc_map.php:2048 inc/vc_element/vc_map.php:2070
+#: inc/vc_element/vc_map.php:2081 inc/vc_element/vc_map.php:2092
+#: inc/vc_element/vc_map.php:2102 inc/vc_element/vc_map.php:2113
+#: inc/vc_element/vc_map.php:2135 inc/vc_element/vc_map.php:2147
+msgid "No"
+msgstr ""
+
+#: inc/woocommerce/functions.php:59
+msgid "No account yet?"
+msgstr ""
+
+#: comments.php:9 inc/widgets/blogs.php:113 template-parts/post/content.php:70
+msgid "No Comments"
+msgstr ""
+
+#: inc/helpers.php:544
+msgid "No matches found."
+msgstr ""
+
+#: blank.php:18
+msgid "No pages were found!"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: inc/walkers.php:294
+msgid "No Repeat"
+msgstr ""
+
+#: inc/custom_metaboxes.php:157
+msgid "No Slider"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:25 inc/vc_element/vc_map.php:576
+#: inc/vc_element/vc_map.php:1000 inc/vc_element/vc_map.php:1801
+#: inc/vc_element/vc_map.php:1818 inc/vc_element/vc_map.php:2221
+#: inc/vc_element/vc_map.php:2238 inc/widgets/blogs.php:231
+#: inc/widgets/product_categories.php:147
+msgid "None"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1680
+msgid "Normal"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:356 inc/vc_element/vc_map.php:2640
+msgid "Number"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:552 inc/vc_element/vc_map.php:2443
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:177
+msgid "Number of comments to show"
+msgstr ""
+
+#: inc/theme_options.php:673
+msgid "Number Of Gallery Product Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:560
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/blogs.php:224 inc/widgets/products.php:264
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2461
+msgid "Number of Product Categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1848 inc/vc_element/vc_map.php:2026
+#: inc/vc_element/vc_map.php:2268
+msgid "Number of Products"
+msgstr ""
+
+#: inc/theme_options.php:829
+msgid "Number of products per page"
+msgstr ""
+
+#: inc/theme_options.php:490
+msgid "Number Of Results"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1367 inc/vc_element/vc_map.php:2452
+msgid "Number of Rows"
+msgstr ""
+
+#: inc/widgets/blogs.php:300 inc/widgets/products.php:259
+#: inc/widgets/recent_comments.php:214
+msgid "Number of rows - in carousel slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2125
+msgid "Number of Rows for slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:675
+msgid "Number of words in excerpt"
+msgstr ""
+
+#: inc/widgets/product_categories.php:145
+msgid "Number product"
+msgstr ""
+
+#: inc/theme_options.php:123
+msgid ""
+"Obtain API key <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\" target=\"_blank\">here</a> "
+"to use our Google Map VC element."
+msgstr ""
+
+#: inc/theme_options.php:769
+msgid "Off Canvas Sidebar on Mobile"
+msgstr ""
+
+#: inc/theme_options.php:433 inc/theme_options.php:465
+msgid "Off-Canvas"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:98
+msgid "on"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:933
+msgid "On click action"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:182
+msgid "On Meta"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:183
+msgid "On Thumbnail"
+msgstr ""
+
+#: comments.php:9
+msgid "One Comment"
+msgstr ""
+
+#: 404.php:10
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: inc/walkers.php:172
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/widgets/product_filter_by_color.php:176
+msgid "OR"
+msgstr ""
+
+#: inc/walkers.php:264
+msgid "Orange"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:586 inc/widgets/blogs.php:241
+#: inc/widgets/product_categories.php:151
+msgid "Order"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:572 inc/vc_element/vc_map.php:1797
+#: inc/vc_element/vc_map.php:2217 inc/widgets/blogs.php:229
+#: inc/widgets/product_categories.php:141
+msgid "Order by"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:379
+msgid "Original"
+msgstr ""
+
+#: inc/walkers.php:326
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1670
+msgid "Outline"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:464 inc/vc_element/vc_map.php:988
+#: inc/vc_element/vc_map.php:1771 inc/vc_element/vc_map.php:2191
+msgid "Overlay"
+msgstr ""
+
+#: inc/custom_metaboxes.php:463
+msgid "Override"
+msgstr ""
+
+#: inc/helpers.php:135
+msgid "Page"
+msgstr ""
+
+#: inc/custom_metaboxes.php:39
+msgid "Page Layout"
+msgstr ""
+
+#: inc/helpers.php:329
+msgid "Page not found"
+msgstr ""
+
+#: inc/custom_metaboxes.php:16
+msgid "Page options"
+msgstr ""
+
+#: inc/custom_metaboxes.php:164
+msgid "Page Slider"
+msgstr ""
+
+#: inc/custom_metaboxes.php:172
+msgid "Page Slider Position"
+msgstr ""
+
+#: template-parts/post/content-single.php:77
+msgid "Pages:"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1001
+msgid "Parallax"
+msgstr ""
+
+#: inc/woocommerce/functions.php:79
+msgid "Password"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1844 inc/vc_element/vc_map.php:2264
+msgid "Per Page"
+msgstr ""
+
+#: inc/helpers.php:727
+msgid "Pingback:"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:229
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/woocommerce/quickview.php:103
+msgid "Placeholder"
+msgstr ""
+
+#: inc/theme_options.php:212
+msgid "Popup"
+msgstr ""
+
+#: inc/theme_options.php:275
+msgid "Popup background"
+msgstr ""
+
+#: inc/theme_options.php:241
+msgid "Popup Delay"
+msgstr ""
+
+#: inc/theme_options.php:231
+msgid "Popup Event"
+msgstr ""
+
+#: inc/theme_options.php:225
+msgid "Popup Text"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1548
+msgid "Position Content(Left)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1567
+msgid "Position Content(Top)"
+msgstr ""
+
+#: template-parts/post/related-posts.php:44
+msgid "Post by: "
+msgstr ""
+
+#: inc/custom_metaboxes.php:331
+msgid "Post Gallery"
+msgstr ""
+
+#: inc/custom_metaboxes.php:257
+msgid "Post Layout"
+msgstr ""
+
+#: inc/custom_metaboxes.php:248
+msgid "Post options"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:168
+msgid "Post type"
+msgstr ""
+
+#: template-parts/post/content-single.php:66 template-parts/post/content.php:38
+msgid "Posted by "
+msgstr ""
+
+#: template-parts/post/content-single.php:132
+#: template-parts/post/content.php:130
+msgid "Posted by: "
+msgstr ""
+
+#: inc/helpers.php:133
+msgid "Posts tagged "
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:38
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:104
+msgid "Price"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1657
+msgid "Primary"
+msgstr ""
+
+#: inc/theme_options.php:520
+msgid "Primary Color"
+msgstr ""
+
+#: inc/custom_metaboxes.php:115
+#: template-parts/navigation/navigation-primary.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/functions.php:61
+msgid "Primary Navigation"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:81
+msgid "Product"
+msgstr ""
+
+#: inc/theme_options.php:898 inc/theme_options.php:1066
+msgid "Product Add To Cart Button"
+msgstr ""
+
+#: inc/theme_options.php:1034
+msgid "Product Availability"
+msgstr ""
+
+#: inc/theme_options.php:853 inc/theme_options.php:1074
+#: inc/vc_element/vc_map.php:1853 inc/vc_element/vc_map.php:2030
+#: inc/vc_element/vc_map.php:2273 inc/vc_element/vc_map.php:2465
+msgid "Product Categories"
+msgstr ""
+
+#: inc/theme_options.php:737
+msgid "Product Category"
+msgstr ""
+
+#: inc/theme_options.php:749
+msgid "Product Category Layout"
+msgstr ""
+
+#: inc/sidebar.php:29
+msgid "Product Category Sidebar"
+msgstr ""
+
+#: inc/theme_options.php:816
+msgid "Product Columns"
+msgstr ""
+
+#: inc/theme_options.php:1050
+msgid "Product Count Down Timer"
+msgstr ""
+
+#: inc/theme_options.php:1250
+msgid "Product Custom Tab"
+msgstr ""
+
+#: inc/theme_options.php:1266
+msgid "Product Custom Tab Content"
+msgstr ""
+
+#: inc/theme_options.php:1259
+msgid "Product Custom Tab Title"
+msgstr ""
+
+#: inc/theme_options.php:957
+msgid "Product Detail Layout"
+msgstr ""
+
+#: inc/sidebar.php:47
+msgid "Product Detail Sidebar"
+msgstr ""
+
+#: inc/theme_options.php:946
+msgid "Product Details"
+msgstr ""
+
+#: inc/theme_options.php:719
+msgid "Product Feature Label"
+msgstr ""
+
+#: inc/sidebar.php:38
+msgid "Product Filters Area Content"
+msgstr ""
+
+#: inc/theme_options.php:1102
+msgid "Product Images"
+msgstr ""
+
+#: inc/theme_options.php:707 inc/theme_options.php:844
+#: inc/theme_options.php:988
+msgid "Product Label"
+msgstr ""
+
+#: inc/custom_metaboxes.php:383 inc/vc_element/vc_map.php:1754
+#: inc/vc_element/vc_map.php:2174
+msgid "Product Layout"
+msgstr ""
+
+#: inc/theme_options.php:996
+msgid "Product Navigation"
+msgstr ""
+
+#: inc/custom_metaboxes.php:374
+msgid "Product Options"
+msgstr ""
+
+#: inc/theme_options.php:726
+msgid "Product Out Of Stock Label"
+msgstr ""
+
+#: inc/theme_options.php:1112
+msgid "Product PhotoSwipe Lightbox"
+msgstr ""
+
+#: inc/theme_options.php:889 inc/theme_options.php:1058
+msgid "Product Price"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:34
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/theme_options.php:880 inc/theme_options.php:1018
+msgid "Product Rating"
+msgstr ""
+
+#: inc/theme_options.php:712
+msgid "Product Sale in Percentage"
+msgstr ""
+
+#: inc/theme_options.php:1090
+msgid "Product Sharing"
+msgstr ""
+
+#: inc/theme_options.php:1042
+msgid "Product Short Description"
+msgstr ""
+
+#: inc/theme_options.php:907
+msgid "Product Short Description - Grid View"
+msgstr ""
+
+#: inc/theme_options.php:924
+msgid "Product Short Description - List View"
+msgstr ""
+
+#: inc/theme_options.php:1200
+msgid "Product Size Chart"
+msgstr ""
+
+#: inc/theme_options.php:871 inc/theme_options.php:1026
+msgid "Product SKU"
+msgstr ""
+
+#: inc/theme_options.php:1218
+msgid "Product Tab"
+msgstr ""
+
+#: inc/theme_options.php:1220
+msgid "Product Tabs"
+msgstr ""
+
+#: inc/theme_options.php:1239
+msgid "Product Tabs Position"
+msgstr ""
+
+#: inc/theme_options.php:1228
+msgid "Product Tabs Style"
+msgstr ""
+
+#: inc/theme_options.php:1082
+msgid "Product Tags"
+msgstr ""
+
+#: inc/theme_options.php:835 inc/theme_options.php:1125
+msgid "Product Thumbnail"
+msgstr ""
+
+#: inc/custom_metaboxes.php:428
+msgid "Product Thumbnail Style"
+msgstr ""
+
+#: inc/theme_options.php:1133
+msgid "Product Thumbnails Style"
+msgstr ""
+
+#: inc/theme_options.php:862 inc/theme_options.php:1004
+msgid "Product Title"
+msgstr ""
+
+#: inc/theme_options.php:1012
+msgid "Product Title In Content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1782 inc/vc_element/vc_map.php:2007
+#: inc/vc_element/vc_map.php:2202 inc/widgets/products.php:228
+msgid "Product type"
+msgstr ""
+
+#: inc/theme_options.php:982
+msgid "Product Variation Color Swatches"
+msgstr ""
+
+#: inc/theme_options.php:1105
+msgid "Product Zoom"
+msgstr ""
+
+#: inc/theme_options.php:1119
+msgid "Product Zoom Button"
+msgstr ""
+
+#: inc/theme_options.php:828
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1775 inc/vc_element/vc_map.php:2195
+msgid "Push"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:110
+msgid "Quantity"
+msgstr ""
+
+#: inc/widgets/product_filter_by_color.php:173
+msgid "Query Type:"
+msgstr ""
+
+#: inc/woocommerce/quickview.php:34
+msgid "Quick View"
+msgstr ""
+
+#: inc/theme_options.php:679
+msgid "Quickshop"
+msgstr ""
+
+#: inc/helpers.php:379
+msgid "Quotes"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1807 inc/vc_element/vc_map.php:2227
+#: inc/widgets/blogs.php:236 inc/widgets/product_categories.php:146
+msgid "Random"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1786 inc/vc_element/vc_map.php:2011
+#: inc/vc_element/vc_map.php:2206 inc/widgets/products.php:230
+msgid "Recent"
+msgstr ""
+
+#: inc/walkers.php:261
+msgid "Red"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:30
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: template-parts/post/related-posts.php:15
+msgid "Related Posts"
+msgstr ""
+
+#: inc/theme_options.php:1287
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: inc/woocommerce/functions.php:87
+msgid "Remember Me"
+msgstr ""
+
+#: inc/walkers.php:341
+msgid "Remove"
+msgstr ""
+
+#: inc/walkers.php:284
+msgid "Remove Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:62 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: inc/walkers.php:295
+msgid "Repeat"
+msgstr ""
+
+#: inc/walkers.php:296
+msgid "Repeat X"
+msgstr ""
+
+#: inc/walkers.php:297
+msgid "Repeat Y"
+msgstr ""
+
+#: inc/helpers.php:755
+msgid "Reply"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:749 inc/vc_element/vc_map.php:760
+#: inc/vc_element/vc_map.php:771 inc/vc_element/vc_map.php:782
+#: inc/vc_element/vc_map.php:793 inc/vc_element/vc_map.php:884
+#: inc/vc_element/vc_map.php:895 inc/vc_element/vc_map.php:906
+#: inc/vc_element/vc_map.php:917 inc/vc_element/vc_map.php:928
+#: inc/vc_element/vc_map.php:1201 inc/vc_element/vc_map.php:1217
+#: inc/vc_element/vc_map.php:1233 inc/vc_element/vc_map.php:1249
+#: inc/vc_element/vc_map.php:1265 inc/vc_element/vc_map.php:1421
+#: inc/vc_element/vc_map.php:1430 inc/vc_element/vc_map.php:1439
+#: inc/vc_element/vc_map.php:1448 inc/vc_element/vc_map.php:1457
+#: inc/vc_element/vc_map.php:1938 inc/vc_element/vc_map.php:1949
+#: inc/vc_element/vc_map.php:1960 inc/vc_element/vc_map.php:1971
+#: inc/vc_element/vc_map.php:1982 inc/vc_element/vc_map.php:2359
+#: inc/vc_element/vc_map.php:2370 inc/vc_element/vc_map.php:2381
+#: inc/vc_element/vc_map.php:2392 inc/vc_element/vc_map.php:2403
+#: inc/vc_element/vc_map.php:2544 inc/vc_element/vc_map.php:2555
+#: inc/vc_element/vc_map.php:2566 inc/vc_element/vc_map.php:2577
+#: inc/vc_element/vc_map.php:2588
+msgid "Responsive Options"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive WooCommerce WordPress Theme."
+msgstr ""
+
+#: inc/custom_metaboxes.php:159
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:442 inc/vc_element/vc_map.php:1304
+#: inc/vc_element/vc_map.php:1711
+msgid "Right"
+msgstr ""
+
+#: inc/walkers.php:309 inc/vc_element/vc_map.php:1031
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:31
+msgid "Right bottom"
+msgstr ""
+
+#: inc/walkers.php:311 inc/vc_element/vc_map.php:1032
+msgid "Right Center"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:30
+msgid "Right center"
+msgstr ""
+
+#: inc/custom_metaboxes.php:45 inc/custom_metaboxes.php:60
+#: inc/custom_metaboxes.php:264 inc/custom_metaboxes.php:279
+#: inc/custom_metaboxes.php:390 inc/custom_metaboxes.php:405
+#: inc/custom_metaboxes.php:525 inc/custom_metaboxes.php:540
+#: inc/theme_options.php:762 inc/theme_options.php:970
+#: inc/theme_options.php:1328 inc/theme_options.php:1448
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/walkers.php:310 inc/vc_element/vc_map.php:1030
+msgid "Right Top"
+msgstr ""
+
+#: inc/vc_element/vc_config.php:29
+msgid "Right top"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2121
+msgid "Row"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1363 inc/vc_element/vc_map.php:1827
+#: inc/vc_element/vc_map.php:2247 inc/vc_element/vc_map.php:2448
+msgid "Rows"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:234
+msgid "Rss link"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1787 inc/vc_element/vc_map.php:2012
+#: inc/vc_element/vc_map.php:2207 inc/widgets/products.php:231
+#: inc/woocommerce/hooks.php:108
+msgid "Sale"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1867 inc/vc_element/vc_map.php:2287
+msgid "Sale Countdown"
+msgstr ""
+
+#: inc/theme_options.php:235
+msgid "Scroll"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search ..."
+msgstr ""
+
+#: inc/theme_options.php:474
+msgid "Search Bar"
+msgstr ""
+
+#: inc/helpers.php:432
+msgid "Search for post ..."
+msgstr ""
+
+#: inc/helpers.php:428
+msgid "Search for product ..."
+msgstr ""
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: inc/helpers.php:130
+msgid "Search results for "
+msgstr ""
+
+#: inc/helpers.php:346
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1658
+msgid "Secondary"
+msgstr ""
+
+#: inc/theme_options.php:528
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:88
+msgid "secs"
+msgstr ""
+
+#: inc/theme_options.php:203
+msgid "Select a background image for Breadcrumb"
+msgstr ""
+
+#: inc/theme_options.php:521
+msgid "Select a main color for your site."
+msgstr ""
+
+#: inc/custom_metaboxes.php:184
+msgid "Select a slider"
+msgstr ""
+
+#: inc/theme_options.php:1209
+msgid "Select an image file for all Product"
+msgstr ""
+
+#: inc/theme_options.php:142
+msgid "Select an image file for the main logo"
+msgstr ""
+
+#: inc/widgets/blogs.php:249 inc/widgets/products.php:240
+#: inc/widgets/product_categories.php:122
+msgid "Select categories"
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:82
+msgid "Select Form"
+msgstr ""
+
+#: inc/walkers.php:278
+msgid "Select Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:139 inc/vc_element/vc_map.php:1286
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/theme_options.php:750 inc/theme_options.php:958
+#: inc/theme_options.php:1318 inc/theme_options.php:1438
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:109
+msgid "Select Menu"
+msgstr ""
+
+#: inc/widgets/mega_menu.php:73
+msgid "Select Menu:"
+msgstr ""
+
+#: inc/custom_metaboxes.php:197
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1793 inc/vc_element/vc_map.php:2018
+#: inc/vc_element/vc_map.php:2213
+msgid "Select type of product"
+msgstr ""
+
+#: inc/custom_metaboxes.php:367 inc/vc_element/vc_map.php:252
+#: inc/vc_element/vc_map.php:502 inc/vc_element/vc_map.php:955
+#: inc/vc_element/vc_map.php:1079
+msgid "Self"
+msgstr ""
+
+#: inc/theme_options.php:276
+msgid "Set background image or color for promo popup"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:792 inc/vc_element/vc_map.php:927
+#: inc/vc_element/vc_map.php:1264 inc/vc_element/vc_map.php:1456
+#: inc/vc_element/vc_map.php:1981 inc/vc_element/vc_map.php:2402
+#: inc/vc_element/vc_map.php:2587
+msgid "Set items on 0px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:781 inc/vc_element/vc_map.php:916
+#: inc/vc_element/vc_map.php:1248 inc/vc_element/vc_map.php:1447
+#: inc/vc_element/vc_map.php:1970 inc/vc_element/vc_map.php:2391
+#: inc/vc_element/vc_map.php:2576
+msgid "Set items on 480px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:770 inc/vc_element/vc_map.php:905
+#: inc/vc_element/vc_map.php:1232 inc/vc_element/vc_map.php:1438
+#: inc/vc_element/vc_map.php:1959 inc/vc_element/vc_map.php:2380
+#: inc/vc_element/vc_map.php:2565
+msgid "Set items on 640px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:759 inc/vc_element/vc_map.php:894
+#: inc/vc_element/vc_map.php:1216 inc/vc_element/vc_map.php:1429
+#: inc/vc_element/vc_map.php:1948 inc/vc_element/vc_map.php:2369
+#: inc/vc_element/vc_map.php:2554
+msgid "Set items on 768px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:748 inc/vc_element/vc_map.php:883
+#: inc/vc_element/vc_map.php:1200 inc/vc_element/vc_map.php:1420
+#: inc/vc_element/vc_map.php:1937 inc/vc_element/vc_map.php:2358
+#: inc/vc_element/vc_map.php:2543
+msgid "Set items on 991px"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:737 inc/vc_element/vc_map.php:1383
+#: inc/vc_element/vc_map.php:1926 inc/vc_element/vc_map.php:2347
+#: inc/vc_element/vc_map.php:2532
+msgid "Set margin between items"
+msgstr ""
+
+#: inc/walkers.php:209
+msgid "Set sizes"
+msgstr ""
+
+#: inc/theme_options.php:251
+msgid "Set the number of pixels users have to scroll down before popup opens"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1544
+msgid "Set width for content. Ex: 230"
+msgstr ""
+
+#: inc/theme_options.php:325
+msgid "Set your header design for mobile devices"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1772 inc/vc_element/vc_map.php:2192
+msgid "Shade"
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:19
+msgid "Share"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:360
+msgid "Share:"
+msgstr ""
+
+#: inc/helpers.php:839
+msgid "Shop by category"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2059
+msgid "shop_catalog"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2060
+msgid "shop_single"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2058
+msgid "shop_thumbnail"
+msgstr ""
+
+#: inc/theme_options.php:453
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/woocommerce/functions.php:154
+msgid "Shopping cart"
+msgstr ""
+
+#: inc/theme_options.php:461
+msgid "Shopping Cart Type"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:481
+msgid "Short description"
+msgstr ""
+
+#: inc/custom_metaboxes.php:444 inc/theme_options.php:773
+#: inc/theme_options.php:788 inc/theme_options.php:839
+#: inc/theme_options.php:848 inc/theme_options.php:857
+#: inc/theme_options.php:866 inc/theme_options.php:875
+#: inc/theme_options.php:884 inc/theme_options.php:893
+#: inc/theme_options.php:902 inc/theme_options.php:911
+#: inc/theme_options.php:928 inc/theme_options.php:992
+#: inc/theme_options.php:1000 inc/theme_options.php:1008
+#: inc/theme_options.php:1022 inc/theme_options.php:1030
+#: inc/theme_options.php:1038 inc/theme_options.php:1046
+#: inc/theme_options.php:1054 inc/theme_options.php:1062
+#: inc/theme_options.php:1070 inc/theme_options.php:1078
+#: inc/theme_options.php:1086 inc/theme_options.php:1094
+#: inc/theme_options.php:1129 inc/theme_options.php:1181
+#: inc/theme_options.php:1189 inc/theme_options.php:1204
+#: inc/theme_options.php:1224 inc/theme_options.php:1254
+#: inc/theme_options.php:1283 inc/theme_options.php:1291
+#: inc/theme_options.php:1338 inc/theme_options.php:1346
+#: inc/theme_options.php:1354 inc/theme_options.php:1362
+#: inc/theme_options.php:1370 inc/theme_options.php:1378
+#: inc/theme_options.php:1386 inc/theme_options.php:1394
+#: inc/theme_options.php:1402 inc/theme_options.php:1410
+#: inc/theme_options.php:1458 inc/theme_options.php:1466
+#: inc/theme_options.php:1474 inc/theme_options.php:1482
+#: inc/theme_options.php:1490 inc/theme_options.php:1498
+#: inc/theme_options.php:1506 inc/theme_options.php:1514
+#: inc/theme_options.php:1522 inc/theme_options.php:1530
+#: inc/theme_options.php:1538
+msgid "Show"
+msgstr ""
+
+#: inc/theme_options.php:264
+msgid "Show after number of pages visited"
+msgstr ""
+
+#: inc/theme_options.php:250
+msgid "Show after user scroll down the page"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:183
+msgid "Show avatar"
+msgstr ""
+
+#: inc/theme_options.php:654
+msgid "Show back on hover. It will show an image from Product Gallery"
+msgstr ""
+
+#: inc/theme_options.php:183
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: inc/widgets/products.php:284
+msgid "Show categories"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:193
+msgid "Show comment author"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:198
+msgid "Show comment content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:626
+msgid "Show comment count"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:188
+msgid "Show comment date"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1508
+msgid "Show Content"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1511
+msgid "Show content information on Map"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:665
+msgid "Show continue reading button"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:656
+msgid "Show count view"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:636
+msgid "Show date"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2303
+msgid "Show Description"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:862 inc/vc_element/vc_map.php:1175
+msgid "Show dots"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:713 inc/vc_element/vc_map.php:1902
+#: inc/vc_element/vc_map.php:2323 inc/vc_element/vc_map.php:2511
+msgid "Show dots button"
+msgstr ""
+
+#: inc/theme_options.php:810
+msgid "Show Filters Area"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2295
+msgid "Show Gallery"
+msgstr ""
+
+#: inc/theme_options.php:784
+msgid "Show Grid, List view"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2109 inc/widgets/blogs.php:296
+#: inc/widgets/products.php:306 inc/widgets/recent_comments.php:210
+msgid "Show in a carousel slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:684 inc/vc_element/vc_map.php:1875
+msgid "Show load more button"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1163
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:854
+msgid "Show navigation"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:702 inc/vc_element/vc_map.php:1398
+#: inc/vc_element/vc_map.php:1891 inc/vc_element/vc_map.php:2130
+#: inc/vc_element/vc_map.php:2312 inc/vc_element/vc_map.php:2501
+#: inc/widgets/blogs.php:306 inc/widgets/products.php:311
+#: inc/widgets/recent_comments.php:220
+msgid "Show navigation button"
+msgstr ""
+
+#: inc/theme_options.php:175
+msgid "Show page title"
+msgstr ""
+
+#: inc/widgets/blogs.php:284
+msgid "Show post author"
+msgstr ""
+
+#: inc/widgets/blogs.php:289
+msgid "Show post comment"
+msgstr ""
+
+#: inc/widgets/product_categories.php:111
+msgid "Show post count"
+msgstr ""
+
+#: inc/widgets/blogs.php:279
+msgid "Show post date"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:646
+msgid "Show post excerpt"
+msgstr ""
+
+#: inc/widgets/blogs.php:269
+msgid "Show post image"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:203
+msgid "Show post on"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:597 inc/widgets/blogs.php:274
+msgid "Show post title"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:617
+msgid "Show posted by author"
+msgstr ""
+
+#: inc/widgets/products.php:294
+msgid "Show price"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2098
+msgid "Show product categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2494
+msgid "Show product category description"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2486
+msgid "Show product category title"
+msgstr ""
+
+#: inc/theme_options.php:908
+msgid "Show product description on grid view"
+msgstr ""
+
+#: inc/theme_options.php:925
+msgid "Show product description on list view"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2043
+msgid "Show product image"
+msgstr ""
+
+#: inc/theme_options.php:785
+msgid "Show product in grid or list view"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2065
+msgid "Show product name"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2076
+msgid "Show product price"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2087
+msgid "Show product rating"
+msgstr ""
+
+#: inc/widgets/products.php:289
+msgid "Show product title"
+msgstr ""
+
+#: inc/widgets/products.php:299
+msgid "Show rating"
+msgstr ""
+
+#: inc/custom_metaboxes.php:440 inc/custom_metaboxes.php:441
+msgid "Show Size Chart"
+msgstr ""
+
+#: inc/theme_options.php:1185
+msgid "Show Sticky Product Add to cart Button"
+msgstr ""
+
+#: inc/theme_options.php:1157
+msgid "Show Sticky Product Image"
+msgstr ""
+
+#: inc/theme_options.php:1164
+msgid "Show Sticky Product name"
+msgstr ""
+
+#: inc/theme_options.php:1177
+msgid "Show Sticky Product Price"
+msgstr ""
+
+#: inc/theme_options.php:1171
+msgid "Show Sticky Product Rating"
+msgstr ""
+
+#: inc/widgets/product_categories.php:115
+msgid "Show sub categories"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:607 inc/widgets/products.php:270
+msgid "Show thumbnail"
+msgstr ""
+
+#: inc/theme_options.php:354
+msgid "Show Top bar"
+msgstr ""
+
+#: inc/widgets/product_filter_by_color.php:12
+msgid ""
+"Shows list of product colors which let you filter product when viewing "
+"product categories. You have to have product attribute with slug \"color\""
+msgstr ""
+
+#: inc/woocommerce/hooks.php:378
+msgid "Sidebar"
+msgstr ""
+
+#: inc/woocommerce/functions.php:27 inc/woocommerce/functions.php:52
+msgid "Sign in"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1671
+msgid "Simple"
+msgstr ""
+
+#: inc/widgets/products.php:278
+msgid "Single Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1677
+msgid "Size"
+msgstr ""
+
+#: inc/theme_options.php:1197 inc/woocommerce/hooks.php:443
+msgid "Size Chart"
+msgstr ""
+
+#: inc/custom_metaboxes.php:451 inc/theme_options.php:1208
+msgid "Size Chart Image"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:425
+msgid "Sku: "
+msgstr ""
+
+#: inc/vc_element/vc_map.php:540 inc/vc_element/vc_map.php:831
+#: inc/vc_element/vc_map.php:1116 inc/vc_element/vc_map.php:1760
+#: inc/vc_element/vc_map.php:2180 inc/vc_element/vc_map.php:2433
+msgid "Slider"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:708 inc/vc_element/vc_map.php:718
+#: inc/vc_element/vc_map.php:728 inc/vc_element/vc_map.php:738
+#: inc/vc_element/vc_map.php:1897 inc/vc_element/vc_map.php:1907
+#: inc/vc_element/vc_map.php:1917 inc/vc_element/vc_map.php:1927
+#: inc/vc_element/vc_map.php:2117 inc/vc_element/vc_map.php:2126
+#: inc/vc_element/vc_map.php:2138 inc/vc_element/vc_map.php:2150
+#: inc/vc_element/vc_map.php:2318 inc/vc_element/vc_map.php:2328
+#: inc/vc_element/vc_map.php:2338 inc/vc_element/vc_map.php:2348
+#: inc/vc_element/vc_map.php:2506 inc/vc_element/vc_map.php:2515
+#: inc/vc_element/vc_map.php:2524 inc/vc_element/vc_map.php:2533
+msgid "Slider Options"
+msgstr ""
+
+#: inc/widgets/product_categories.php:144
+msgid "Slug"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:194 inc/vc_element/vc_map.php:378
+#: inc/vc_element/vc_map.php:1684
+msgid "Small"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1683
+msgid "Smaller"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:189
+msgid "Social buttons style"
+msgstr ""
+
+#: index.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1814 inc/vc_element/vc_map.php:2234
+msgid "Sorting"
+msgstr ""
+
+#: inc/theme_options.php:346
+msgid "Sticky header"
+msgstr ""
+
+#: inc/theme_options.php:1147
+msgid "Sticky Product Bar"
+msgstr ""
+
+#: inc/theme_options.php:1415
+msgid "Strip all html tags in Excerpt"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:29 inc/vc_element/vc_map.php:317
+#: inc/vc_element/vc_map.php:415 inc/vc_element/vc_map.php:1122
+#: inc/vc_element/vc_map.php:1666 inc/vc_element/vc_map.php:1766
+#: inc/vc_element/vc_map.php:2186
+msgid "Style"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1501
+msgid "Style (Json)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:321
+msgid "Style 1"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:322
+msgid "Style 2"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:323
+msgid "Style 3"
+msgstr ""
+
+#: inc/theme_options.php:506
+msgid "Styling"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:46
+msgid "Sub Title Description"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2648
+msgid "Subject"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+msgid "Subtotal"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1660
+msgid "Success"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:754 inc/vc_element/vc_map.php:889
+#: inc/vc_element/vc_map.php:1209 inc/vc_element/vc_map.php:1425
+#: inc/vc_element/vc_map.php:1943 inc/vc_element/vc_map.php:2364
+#: inc/vc_element/vc_map.php:2549
+msgid "Tablet items"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:765 inc/vc_element/vc_map.php:900
+#: inc/vc_element/vc_map.php:1225 inc/vc_element/vc_map.php:1434
+#: inc/vc_element/vc_map.php:1954 inc/vc_element/vc_map.php:2375
+#: inc/vc_element/vc_map.php:2560
+msgid "Tablet mini items"
+msgstr ""
+
+#: inc/helpers.php:364
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/woocommerce/hooks.php:431
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/post/content-single.php:101
+#: template-parts/post/content.php:97
+msgid "Tags: "
+msgstr ""
+
+#: inc/custom_metaboxes.php:363 inc/vc_element/vc_map.php:247
+#: inc/vc_element/vc_map.php:385 inc/vc_element/vc_map.php:497
+#: inc/vc_element/vc_map.php:950 inc/vc_element/vc_map.php:1074
+msgid "Target"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:239 inc/vc_element/vc_map.php:1325
+msgid "Text"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1625
+msgid "Text Button"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1522 inc/vc_element/vc_map.php:1632
+msgid "Text Color"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1603 inc/vc_element/vc_map.php:2656
+msgid "Text Color Style"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:306 inc/widgets/mailchimp_subscription.php:103
+msgid "Text Style"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1643
+msgid "Text Tranform"
+msgstr ""
+
+#. Author of the theme
+msgid "the Alura Studio team"
+msgstr ""
+
+#: inc/walkers.php:191
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/theme_options.php:1557 inc/theme_options.php:1558
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme_options.php:304
+msgid ""
+"This header style will be showed only in inner pages, please go to Pages > "
+"Homepage to change header for front page."
+msgstr ""
+
+#: inc/theme_options.php:594 inc/theme_options.php:619
+msgid "This is my font preview!"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:38
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/vc_element/vc_map.php:377
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/custom_metaboxes.php:570 inc/widgets/products.php:276
+msgid "Thumbnail Image"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2054 inc/widgets/products.php:274
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/theme_options.php:234
+msgid "Time"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:21 inc/vc_element/vc_map.php:101
+#: inc/vc_element/vc_map.php:162 inc/vc_element/vc_map.php:282
+#: inc/vc_element/vc_map.php:340 inc/vc_element/vc_map.php:580
+#: inc/vc_element/vc_map.php:1107 inc/vc_element/vc_map.php:1746
+#: inc/vc_element/vc_map.php:1805 inc/vc_element/vc_map.php:1999
+#: inc/vc_element/vc_map.php:2166 inc/vc_element/vc_map.php:2225
+#: inc/vc_element/vc_map.php:2419 inc/widgets/blogs.php:233
+msgid "Title"
+msgstr ""
+
+#: inc/walkers.php:165
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/theme_options.php:550
+msgid "Title Font - Enable Google Font"
+msgstr ""
+
+#: inc/theme_options.php:558
+msgid "Title Font - Family Font"
+msgstr ""
+
+#: inc/theme_options.php:578
+msgid "Title Font - Google Font"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:52
+msgid "Title Tag"
+msgstr ""
+
+#: inc/widgets/mega_menu.php:69 inc/widgets/product_filter_by_color.php:169
+#: inc/widgets/recent_comments.php:163
+msgid "Title:"
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:21
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:439 inc/vc_element/vc_map.php:1301
+msgid "Top"
+msgstr ""
+
+#: inc/theme_options.php:372
+msgid "Top bar Background"
+msgstr ""
+
+#: inc/theme_options.php:382
+msgid "Top bar left"
+msgstr ""
+
+#: inc/theme_options.php:362
+msgid "Top bar Text Color"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1790 inc/vc_element/vc_map.php:2015
+#: inc/vc_element/vc_map.php:2210
+msgid "Top Rated"
+msgstr ""
+
+#: inc/widgets/products.php:234
+msgid "Top rated"
+msgstr ""
+
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:128
+msgid "Total"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:204
+msgid "Twitter link"
+msgstr ""
+
+#: inc/theme_options.php:545
+msgid "Typography"
+msgstr ""
+
+#. Name of the theme
+msgid "Umbala"
+msgstr ""
+
+#: inc/widgets/blogs.php:14
+msgid "Umbala - Blogs"
+msgstr ""
+
+#: inc/widgets/mailchimp_subscription.php:14
+msgid "Umbala - Mailchimp Subscription"
+msgstr ""
+
+#: inc/widgets/mega_menu.php:14
+msgid "Umbala - Mega Menu Sidebar"
+msgstr ""
+
+#: inc/widgets/product_categories.php:14
+msgid "Umbala - Product Categories"
+msgstr ""
+
+#: inc/widgets/product_filter_by_color.php:13
+msgid "Umbala - Product Filter By Color"
+msgstr ""
+
+#: inc/widgets/products.php:14
+msgid "Umbala - Products"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:14
+msgid "Umbala - Recent Comments"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1672
+msgid "Underline"
+msgstr ""
+
+#: inc/theme_options.php:1279
+msgid "Up-Sell Products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Update Cart"
+msgstr ""
+
+#: inc/custom_metaboxes.php:511
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: inc/theme_options.php:157 inc/theme_options.php:163
+msgid "Upload ICO, PNG files"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1646
+msgid "Uppercase"
+msgstr ""
+
+#: inc/theme_options.php:1277
+msgid "Upsell, Related Product"
+msgstr ""
+
+#: inc/walkers.php:152
+msgid "URL"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:430
+msgid "Use FontAwesome. Ex: fa-home"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:136 inc/vc_element/vc_map.php:1283
+msgid "User Avatar"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1313
+msgid "User name"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:348 inc/woocommerce/functions.php:75
+msgid "Username"
+msgstr ""
+
+#: inc/custom_metaboxes.php:433 inc/theme_options.php:1139
+#: inc/theme_options.php:1236 inc/vc_element/vc_map.php:466
+#: inc/vc_element/vc_map.php:1773 inc/vc_element/vc_map.php:2193
+msgid "Vertical"
+msgstr ""
+
+#: inc/functions.php:62
+msgid "Vertical Navigation"
+msgstr ""
+
+#: inc/custom_metaboxes.php:483
+msgid "Video URL"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2604
+msgid "Video Url"
+msgstr ""
+
+#: inc/custom_metaboxes.php:324
+msgid "Video URL:"
+msgstr ""
+
+#: inc/helpers.php:373
+msgid "Videos"
+msgstr ""
+
+#: inc/helpers.php:535
+#, php-format
+msgid "View all %d results"
+msgstr ""
+
+#: template-parts/post/content-single.php:156
+#, php-format
+msgid "View all posts by %s "
+msgstr ""
+
+#: template-parts/post/content.php:46
+msgid "View: "
+msgstr ""
+
+#: inc/walkers.php:267 inc/vc_element/vc_map.php:1661
+msgid "White"
+msgstr ""
+
+#: inc/custom_metaboxes.php:33 inc/theme_options.php:100
+msgid "Wide (1600 px)"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:2612
+msgid "Width"
+msgstr ""
+
+#: inc/theme_options.php:442 inc/woocommerce/functions.php:201
+#: inc/woocommerce/functions.php:202
+msgid "Wishlist"
+msgstr ""
+
+#: inc/theme_options.php:650
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:16
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:40
+msgid "Write your comment"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1687
+msgid "X-Large"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1682
+msgid "X-Small"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1688
+msgid "XX-Large"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1681
+msgid "XX-Small"
+msgstr ""
+
+#: inc/helpers.php:361
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/helpers.php:361
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/theme_options.php:108 inc/theme_options.php:116
+#: inc/theme_options.php:177 inc/theme_options.php:185
+#: inc/theme_options.php:219 inc/theme_options.php:347
+#: inc/theme_options.php:355 inc/theme_options.php:408
+#: inc/theme_options.php:419 inc/theme_options.php:443
+#: inc/theme_options.php:454 inc/theme_options.php:475
+#: inc/theme_options.php:552 inc/vc_element/vc_map.php:1391
+#: inc/vc_element/vc_map.php:1877 inc/vc_element/vc_map.php:2047
+#: inc/vc_element/vc_map.php:2069 inc/vc_element/vc_map.php:2080
+#: inc/vc_element/vc_map.php:2091 inc/vc_element/vc_map.php:2103
+#: inc/vc_element/vc_map.php:2114 inc/vc_element/vc_map.php:2134
+#: inc/vc_element/vc_map.php:2146 inc/vc_element/vc_map.php:2481
+#: inc/vc_element/vc_map.php:2488 inc/vc_element/vc_map.php:2496
+#: inc/vc_element/vc_map.php:2503 inc/vc_element/vc_map.php:2513
+#: inc/vc_element/vc_map.php:2522
+msgid "Yes"
+msgstr ""
+
+#: inc/custom_metaboxes.php:124 inc/custom_metaboxes.php:131
+#: inc/vc_element/vc_config.php:11 inc/vc_element/vc_map.php:600
+#: inc/vc_element/vc_map.php:610 inc/vc_element/vc_map.php:620
+#: inc/vc_element/vc_map.php:629 inc/vc_element/vc_map.php:639
+#: inc/vc_element/vc_map.php:649 inc/vc_element/vc_map.php:659
+#: inc/vc_element/vc_map.php:668 inc/vc_element/vc_map.php:687
+#: inc/vc_element/vc_map.php:705 inc/vc_element/vc_map.php:716
+#: inc/vc_element/vc_map.php:726 inc/vc_element/vc_map.php:857
+#: inc/vc_element/vc_map.php:865 inc/vc_element/vc_map.php:873
+#: inc/vc_element/vc_map.php:1154 inc/vc_element/vc_map.php:1166
+#: inc/vc_element/vc_map.php:1178 inc/vc_element/vc_map.php:1401
+#: inc/vc_element/vc_map.php:1410 inc/vc_element/vc_map.php:1510
+#: inc/vc_element/vc_map.php:1870 inc/vc_element/vc_map.php:1894
+#: inc/vc_element/vc_map.php:1905 inc/vc_element/vc_map.php:1915
+#: inc/vc_element/vc_map.php:2290 inc/vc_element/vc_map.php:2298
+#: inc/vc_element/vc_map.php:2306 inc/vc_element/vc_map.php:2315
+#: inc/vc_element/vc_map.php:2326 inc/vc_element/vc_map.php:2336
+msgid "Yes, please"
+msgstr ""
+
+#: inc/third-party/options-framework/header.tpl.php:22
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1504
+msgid ""
+"You can add Google Maps styles on the website: <a target=\"_blank\" "
+"href=\"http://snazzymaps.com/\">Snazzy Maps</a><br>Ex: [{\"featureType\":"
+"\"administrative\",\"elementType\":\"labels.text.fill\",\"stylers\":"
+"[{\"color\":\"#444444\"}]},{\"featureType\":\"landscape\",\"elementType\":"
+"\"all\",\"stylers\":[{\"color\":\"#f2f2f2\"}]},{\"featureType\":\"poi\","
+"\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},"
+"{\"featureType\":\"road\",\"elementType\":\"all\",\"stylers\":"
+"[{\"saturation\":-100},{\"lightness\":45}]},{\"featureType\":\"road."
+"highway\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":"
+"\"simplified\"}]},{\"featureType\":\"road.arterial\",\"elementType\":"
+"\"labels.icon\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":"
+"\"transit\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},"
+"{\"featureType\":\"water\",\"elementType\":\"all\",\"stylers\":[{\"color\":"
+"\"#46bcec\"},{\"visibility\":\"on\"}]}]"
+msgstr ""
+
+#: inc/theme_options.php:265
+msgid ""
+"You can choose how much pages user should change before popup will be shown."
+msgstr ""
+
+#: inc/custom_metaboxes.php:452
+msgid "You can upload size chart image for product"
+msgstr ""
+
+#: inc/theme_options.php:1051
+msgid "You have to activate Alura-Studio plugin"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/helpers.php:743
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:60
+msgid "Your order"
+msgstr ""
+
+#: inc/vc_element/vc_map.php:1002 inc/vc_element/vc_map.php:1487
+#: inc/woocommerce/hooks.php:306
+msgid "Zoom"
+msgstr ""
+
+#: inc/theme_options.php:667 inc/vc_element/vc_map.php:1004
+msgid "Zoom Fade"
+msgstr ""
+
+#: woocommerce/single-product/photo-swipe-template.php:23
+msgid "Zoom in/out"
+msgstr ""
+
+#: inc/theme_options.php:666 inc/vc_element/vc_map.php:1003
+msgid "Zoom Long"
+msgstr ""

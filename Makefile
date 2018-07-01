@@ -1,3 +1,6 @@
+login:
+	$$(aws ecr get-login --no-include-email --region eu-west-2)
+
 build:
 	docker-compose -f docker-compose.build.yml build
 
@@ -6,6 +9,9 @@ push-website: build
 
 stop:
 	docker-compose down --remove-orphans
+
+pull: login
+	docker-compose -f docker-compose.yml pull
 
 run: stop
 	docker-compose -f docker-compose.yml up -d --force-recreate
