@@ -43,3 +43,8 @@ function asoOverrideTwitterDescription($title) {
     }
     return $title;
 }
+
+add_filter('og_og_type_meta', 'asoOverrideOgType');
+function asoOverrideOgType($title) {
+      return '<meta property="og:type" content="website" />';
+}
