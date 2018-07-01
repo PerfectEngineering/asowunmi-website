@@ -46,5 +46,9 @@ function asoOverrideTwitterDescription($title) {
 
 add_filter('og_og_type_meta', 'asoOverrideOgType');
 function asoOverrideOgType($title) {
-      return '<meta property="og:type" content="website" />';
+    if ( is_front_page() ) {
+        return '<meta property="og:type" content="website" />';
+    }
+
+    return $title;
 }
