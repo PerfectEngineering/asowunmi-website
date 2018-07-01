@@ -18,3 +18,10 @@ function asoRemoveBillingPostCode( $fields ) {
   return $fields;
 }
 
+// add_action('wp_enqueue_scripts', 'asoUmbalaGlobalScriptFix', 1001);
+// function asoUmbalaGlobalScriptFix()
+// {
+//     wp_dequeue_script('umbala-global');
+//     // bugfix version of global
+//     wp_enqueue_script('umbala-child-global', get_stylesheet_directory_uri().'/js/global.js', array('jquery'), '1.1');
+// }
