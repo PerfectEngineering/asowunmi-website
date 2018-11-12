@@ -5,5 +5,5 @@ services:
     volumes:
       - ${MEDIA_UPLOAD_PATH}:/var/www/html/wp-content/uploads
     ports:
-      - "80:80"
+      - "9000:80"
     restart: always
